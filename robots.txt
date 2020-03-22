@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://naichaeche.zhangyuru.cn/sitemap.xml
